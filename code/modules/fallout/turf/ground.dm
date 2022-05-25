@@ -211,6 +211,9 @@
 					DS.pixel_x = -32
 			DS.dir = dir = turn(direction, 180)
 
+/turf/open/indestructible/ground/outside/desert/harsh/burnt
+	icon_state = "burnt"
+
 /turf/open/indestructible/ground/outside/desert/harsh/Initialize()
 	. = ..()
 	if(prob(2))

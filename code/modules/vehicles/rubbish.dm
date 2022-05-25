@@ -117,6 +117,16 @@
 	layer = ABOVE_MOB_LAYER
 	resistance_flags = INDESTRUCTIBLE
 
+/obj/structure/car/rubbish5
+	name = "pre-War rubbish"
+	desc = "A rusty pre-War automobile carcass.<br>This car is damaged beyond repair."
+	icon = 'icons/fallout/objects/structures/rubish2.dmi'
+	icon_state = "car"
+	anchored = 1
+	density = 1
+	layer = ABOVE_MOB_LAYER
+	resistance_flags = INDESTRUCTIBLE
+
 
 /obj/structure/debris/v1
 	name = "pre-War building debris"

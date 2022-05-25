@@ -31,6 +31,15 @@
 /turf/open/floor/plasteel/dark/corner
 	icon_state = "darkcorner"
 
+/turf/open/floor/plasteel/metal/metal1
+	icon_state = "metal1"
+
+/turf/open/floor/plasteel/metal/metal2
+	icon_state = "metal2"
+
+/turf/open/floor/plasteel/metal/metal3
+	icon_state = "metal3"
+
 
 
 /turf/open/floor/plasteel/white

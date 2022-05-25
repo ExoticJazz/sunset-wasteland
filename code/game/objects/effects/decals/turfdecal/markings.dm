@@ -167,6 +167,18 @@
 	icon = 'icons/turf/decalshuge.dmi'
 	icon_state = "razor"
 
+/obj/effect/turf_decal/huge/razor2
+	icon = 'icons/turf/decalshuge.dmi'
+	icon_state = "razor2"
+
+/obj/effect/turf_decal/huge/razor3
+	icon = 'icons/turf/decalshuge.dmi'
+	icon_state = "razor3"
+
+/obj/effect/turf_decal/huge/razor4
+	icon = 'icons/turf/decalshuge.dmi'
+	icon_state = "razor4"
+
 /obj/effect/turf_decal/big/energy
 	icon = 'icons/turf/decalsbig.dmi'
 	icon_state = "energy"
