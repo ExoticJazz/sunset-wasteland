@@ -15,6 +15,13 @@
 
 // BEGIN_INCLUDE
 #include "_maps\_basemap.dm"
+#include "_maps\map_files\Pahrump-Sunset\Dungeons.dmm"
+#include "_maps\map_files\Pahrump-Sunset\Pahrump-Sunset-Lower.dmm"
+#include "_maps\map_files\Pahrump-Sunset\Pahrump-Sunset-Upper-2.dmm"
+#include "_maps\map_files\Pahrump-Sunset\Pahrump-Sunset-Upper.dmm"
+#include "_maps\map_files\Pahrump-Sunset\Pahrump-Sunset.dmm"
+#include "_maps\map_files\Pahrump-Sunset\RockSprings.dmm"
+#include "_maps\map_files\Pahrump-Sunset\Warren.dmm"
 #include "code\_compile_options.dm"
 #include "code\world.dm"
 #include "code\__DEFINES\_auxtools.dm"
