@@ -10538,15 +10538,12 @@
 /obj/structure/fence,
 /turf/open/indestructible/ground/outside/dirt,
 /area/f13/wasteland)
-<<<<<<< Updated upstream
-=======
 "jPE" = (
 /obj/structure/railing{
 	dir = 6
 	},
 /turf/open/transparent/openspace,
 /area/f13/wasteland)
->>>>>>> Stashed changes
 "jPV" = (
 /obj/structure/window/reinforced/fulltile,
 /obj/structure/grille,
@@ -12289,8 +12286,6 @@
 	},
 /turf/open/floor/plasteel/f13{
 	icon_state = "whitebluerustychess"
-<<<<<<< Updated upstream
-=======
 	},
 /area/f13/wasteland)
 "lwi" = (
@@ -12301,7 +12296,6 @@
 /obj/item/grenade/smokebomb,
 /turf/open/floor/f13{
 	icon_state = "floorrusty"
->>>>>>> Stashed changes
 	},
 /area/f13/wasteland)
 "lwL" = (
@@ -23568,8 +23562,6 @@
 /obj/machinery/light/small,
 /turf/open/floor/f13{
 	icon_state = "whitegreenrustychess"
-<<<<<<< Updated upstream
-=======
 	},
 /area/f13/wasteland)
 "wrw" = (
@@ -23581,7 +23573,6 @@
 	},
 /turf/open/floor/f13{
 	icon_state = "tealwhrustychess"
->>>>>>> Stashed changes
 	},
 /area/f13/wasteland)
 "wrx" = (
@@ -31570,10 +31561,6 @@ qes
 qes
 qes
 qEp
-<<<<<<< Updated upstream
-qes
-=======
->>>>>>> Stashed changes
 qes
 qes
 qEp
@@ -33981,11 +33968,7 @@ mzz
 mzz
 mzz
 mzz
-<<<<<<< Updated upstream
-mZp
-=======
 tkz
->>>>>>> Stashed changes
 mZp
 ydU
 gZb
@@ -34902,11 +34885,7 @@ mzz
 mzz
 mzz
 mzz
-<<<<<<< Updated upstream
-lao
-=======
 laM
->>>>>>> Stashed changes
 sMX
 sMX
 sMX
@@ -35059,11 +35038,7 @@ mzz
 mzz
 mzz
 mzz
-<<<<<<< Updated upstream
-dVU
-=======
 lTn
->>>>>>> Stashed changes
 dVU
 pOd
 omo
@@ -35215,11 +35190,7 @@ mzz
 mzz
 mzz
 mzz
-<<<<<<< Updated upstream
-mZp
-=======
 tkz
->>>>>>> Stashed changes
 mZp
 mZp
 mZp
@@ -35371,11 +35342,7 @@ mzz
 mzz
 mzz
 mzz
-<<<<<<< Updated upstream
-mZp
-=======
 tkz
->>>>>>> Stashed changes
 mZp
 mZp
 mZp
@@ -41608,11 +41575,7 @@ mzz
 mzz
 mzz
 mzz
-<<<<<<< Updated upstream
-wIo
-=======
 meu
->>>>>>> Stashed changes
 wIo
 wIo
 wIo
@@ -42828,11 +42791,7 @@ mzz
 mzz
 mzz
 mzz
-<<<<<<< Updated upstream
-nbW
-=======
 mjc
->>>>>>> Stashed changes
 rCn
 jhw
 lWe
@@ -43440,10 +43399,6 @@ mzz
 mzz
 mzz
 mzz
-<<<<<<< Updated upstream
-nbW
-=======
->>>>>>> Stashed changes
 nbW
 nbW
 mjc
@@ -48826,80 +48781,6 @@ ici
 ici
 "}
 (2,1,2) = {"
-<<<<<<< Updated upstream
-hOR
-hOR
-hOR
-hOR
-hOR
-hOR
-hOR
-hOR
-hOR
-hOR
-hOR
-hOR
-hOR
-hOR
-hOR
-=======
-rxQ
->>>>>>> Stashed changes
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-<<<<<<< Updated upstream
-rFe
-rFe
-rFe
-rFe
-rFe
-rFe
-rFe
-fch
-fch
-rFe
-rFe
-rFe
-rFe
-rFe
-fch
-fch
-rFe
-rFe
-rFe
-rFe
-rFe
-rFe
-rFe
-rFe
-rFe
-rFe
-rFe
-fch
-fch
-fch
-=======
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -48923,14 +48804,6 @@ rxQ
 rxQ
 rxQ
 rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-<<<<<<< Updated upstream
 rxQ
 rxQ
 rxQ
@@ -50054,19 +49927,6 @@ hOR
 hOR
 hOR
 hOR
-=======
-xls
-xls
-xls
-xls
-xls
-xls
-xls
-xls
-xls
-xls
-xls
->>>>>>> Stashed changes
 xls
 rxQ
 rxQ
@@ -50152,15 +50012,6 @@ rFe
 rFe
 rFe
 rxQ
-<<<<<<< Updated upstream
-rFe
-rFe
-rFe
-rFe
-rFe
-rFe
-rFe
-=======
 rxQ
 rxQ
 rxQ
@@ -50193,7 +50044,6 @@ rxQ
 rxQ
 rxQ
 rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -50233,27 +50083,9 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-ici
-"}
-(11,1,2) = {"
-tXv
-bti
-eaH
-dTJ
-spH
-aYs
-dTJ
-vOK
-dTJ
-vYo
-gOF
-dTJ
-=======
 rxQ
 rxQ
 rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -50347,15 +50179,6 @@ rFe
 rFe
 rFe
 rxQ
-<<<<<<< Updated upstream
-rFe
-rFe
-rFe
-rFe
-rFe
-rFe
-rFe
-=======
 rxQ
 rxQ
 rxQ
@@ -50388,7 +50211,6 @@ rxQ
 ici
 "}
 (4,1,2) = {"
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -50428,28 +50250,9 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-ici
-"}
-(12,1,2) = {"
-laM
-gkk
-lTn
-dTJ
-vIB
-vIG
-dkg
-pJK
-dTJ
-mbC
-aAS
-wuR
-sUX
-=======
 rxQ
 rxQ
 rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -50591,28 +50394,9 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-ici
-"}
-(13,1,2) = {"
-mjc
-aRg
-iNX
-dTJ
-clk
-iWD
-dTJ
-isK
-dTJ
-aRg
-dfM
-hDq
-sUX
-=======
 rxQ
 rxQ
 rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -50768,38 +50552,6 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-ici
-"}
-(14,1,2) = {"
-ulW
-rQe
-aRg
-dTJ
-dTJ
-dTJ
-dTJ
-adi
-wtV
-aRg
-oFL
-dTJ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-=======
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -50943,26 +50695,8 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-ici
-"}
-(15,1,2) = {"
-jwW
-iWu
-qRC
-adi
-wtV
-cQe
-dTJ
-aRg
-dTJ
-dTJ
-dTJ
-dTJ
-=======
 rxQ
 rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -51112,27 +50846,8 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-ici
-"}
-(16,1,2) = {"
-dTJ
-dTJ
-dTJ
-dTJ
-dTJ
-xdT
-dTJ
-aRg
-aRg
-eew
-gzD
-dTJ
-oRg
-=======
 rxQ
 rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -51274,27 +50989,8 @@ oRg
 mir
 rxQ
 rxQ
-<<<<<<< Updated upstream
-ici
-"}
-(17,1,2) = {"
-qjX
-jTf
-qlW
-dTJ
-cQe
-cQe
-bLr
-aRg
-aRg
-fym
-hgU
-wuR
-sUX
-=======
 rxQ
 rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -51346,11 +51042,6 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-hOR
-hOR
-hOR
-=======
 rxQ
 rxQ
 rxQ
@@ -51454,7 +51145,6 @@ dTJ
 rxQ
 rxQ
 rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -51470,8 +51160,6 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-=======
 rxQ
 rxQ
 rxQ
@@ -51514,7 +51202,6 @@ rxQ
 rxQ
 rxQ
 rxQ
->>>>>>> Stashed changes
 rFe
 rFe
 rFe
@@ -51522,8 +51209,6 @@ rFe
 rFe
 rFe
 rFe
-<<<<<<< Updated upstream
-=======
 rFe
 rFe
 rFe
@@ -51562,7 +51247,6 @@ rxQ
 rxQ
 rxQ
 rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -51622,27 +51306,8 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-ici
-"}
-(18,1,2) = {"
-vqF
-eHB
-eHB
-dTJ
-xdT
-cQe
-dTJ
-kwH
-ydt
-diY
-hgU
-wuR
-sUX
-=======
 rxQ
 rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -51665,24 +51330,6 @@ rxQ
 rxQ
 xls
 rxQ
-<<<<<<< Updated upstream
-hOR
-hOR
-hOR
-hOR
-hOR
-hOR
-hOR
-hOR
-hOR
-hOR
-hOR
-hOR
-hOR
-hOR
-hOR
-hOR
-=======
 rxQ
 rxQ
 oRg
@@ -52060,7 +51707,6 @@ rxQ
 rxQ
 rxQ
 rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -52109,11 +51755,6 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-hOR
-hOR
-hOR
-=======
 rxQ
 rxQ
 rxQ
@@ -52291,7 +51932,6 @@ rxQ
 rxQ
 rxQ
 rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -52307,8 +51947,6 @@ rFe
 rFe
 rFe
 rxQ
-<<<<<<< Updated upstream
-=======
 rxQ
 rxQ
 rxQ
@@ -52356,7 +51994,6 @@ rFe
 rFe
 rFe
 rxQ
->>>>>>> Stashed changes
 rFe
 rFe
 rFe
@@ -52405,22 +52042,6 @@ rxQ
 rxQ
 ici
 "}
-<<<<<<< Updated upstream
-(19,1,2) = {"
-aRg
-adi
-sQp
-dTJ
-vGT
-xdT
-dTJ
-jtN
-hJC
-ddd
-vDt
-dTJ
-vzw
-=======
 (16,1,2) = {"
 rxQ
 rxQ
@@ -52598,7 +52219,6 @@ rxQ
 rxQ
 rxQ
 qEi
->>>>>>> Stashed changes
 rxQ
 iye
 beM
@@ -52607,16 +52227,6 @@ cuG
 mLF
 qEi
 rxQ
-<<<<<<< Updated upstream
-=======
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -52647,13 +52257,13 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-hOR
-hOR
-hOR
-hOR
-hOR
-=======
+rxQ
+rxQ
+rxQ
+rxQ
+rxQ
+rxQ
+rxQ
 rxQ
 rxQ
 rxQ
@@ -52814,7 +52424,6 @@ rxQ
 rxQ
 rxQ
 rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -52894,18 +52503,6 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-=======
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -53456,15 +53053,6 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-rFe
-rFe
-rFe
-rFe
-rFe
-rFe
-=======
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -53964,12 +53552,6 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-=======
-rxQ
-rxQ
-rxQ
->>>>>>> Stashed changes
 rxQ
 hOR
 hOR
@@ -54214,15 +53796,12 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-=======
 rxQ
 rxQ
 rxQ
 rxQ
 rxQ
 rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -54326,11 +53905,6 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-ici
-"}
-(27,1,2) = {"
-=======
 rFe
 rFe
 rFe
@@ -54339,7 +53913,6 @@ rFe
 rFe
 rFe
 rFe
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -54492,11 +54065,6 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-ici
-"}
-(28,1,2) = {"
-=======
 rFe
 rFe
 rFe
@@ -54505,7 +54073,6 @@ rFe
 rFe
 rFe
 rFe
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -54919,8 +54486,6 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-=======
 rxQ
 rxQ
 rxQ
@@ -54929,7 +54494,6 @@ rxQ
 ici
 "}
 (30,1,2) = {"
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -55114,12 +54678,9 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-=======
 ici
 "}
 (31,1,2) = {"
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -55143,8 +54704,6 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-=======
 mRG
 mRG
 mRG
@@ -55157,7 +54716,6 @@ rxQ
 rxQ
 rxQ
 rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -55364,7 +54922,6 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
 rFe
 rFe
 rFe
@@ -55382,8 +54939,6 @@ rFe
 rFe
 rFe
 rxQ
-=======
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -55812,11 +55367,6 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-ici
-"}
-(35,1,2) = {"
-=======
 rxQ
 rxQ
 rxQ
@@ -55824,7 +55374,6 @@ rxQ
 rxQ
 rxQ
 rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -55911,8 +55460,6 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-=======
 rxQ
 rxQ
 rxQ
@@ -55921,7 +55468,6 @@ rxQ
 rxQ
 rxQ
 rxQ
->>>>>>> Stashed changes
 rFe
 rFe
 rFe
@@ -55993,8 +55539,6 @@ rxQ
 ici
 "}
 (36,1,2) = {"
-<<<<<<< Updated upstream
-=======
 rxQ
 rxQ
 rxQ
@@ -56002,7 +55546,6 @@ rxQ
 rxQ
 rxQ
 rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -56020,22 +55563,6 @@ rxQ
 rxQ
 rxQ
 mRG
-<<<<<<< Updated upstream
-fwi
-fwi
-fwi
-fwi
-fwi
-fwi
-mRG
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-=======
 mMI
 mMI
 mMI
@@ -56043,7 +55570,6 @@ mMI
 nrE
 bWS
 mRG
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -56165,8 +55691,6 @@ rxQ
 ici
 "}
 (37,1,2) = {"
-<<<<<<< Updated upstream
-=======
 rxQ
 rxQ
 rxQ
@@ -56174,7 +55698,6 @@ rxQ
 rxQ
 rxQ
 rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -56195,13 +55718,7 @@ mRG
 fwi
 dse
 fwi
-<<<<<<< Updated upstream
-fwi
-fwi
-fwi
-=======
 mMI
->>>>>>> Stashed changes
 fwi
 fwi
 mMI
@@ -56326,8 +55843,6 @@ rxQ
 ici
 "}
 (38,1,2) = {"
-<<<<<<< Updated upstream
-=======
 rxQ
 rxQ
 rxQ
@@ -56335,7 +55850,6 @@ rxQ
 rxQ
 rxQ
 rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -56353,22 +55867,6 @@ rxQ
 rxQ
 rxQ
 mRG
-<<<<<<< Updated upstream
-fwi
-fwi
-fwi
-fwi
-fwi
-fwi
-mRG
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-=======
 xmd
 pun
 fwi
@@ -56376,7 +55874,6 @@ pDx
 fwi
 ijP
 mMI
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -56498,8 +55995,6 @@ rxQ
 ici
 "}
 (39,1,2) = {"
-<<<<<<< Updated upstream
-=======
 rxQ
 rxQ
 rxQ
@@ -56507,7 +56002,6 @@ rxQ
 rxQ
 rxQ
 rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -56693,22 +56187,6 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-rxQ
-=======
 mRG
 mRG
 mRG
@@ -56717,7 +56195,6 @@ mRG
 fwi
 fwi
 mMI
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -57138,12 +56615,9 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-=======
 rxQ
 rxQ
 rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -57368,8 +56842,6 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-=======
 rxQ
 rxQ
 rxQ
@@ -57377,7 +56849,6 @@ rxQ
 rxQ
 rxQ
 rxQ
->>>>>>> Stashed changes
 rxQ
 rxQ
 rxQ
@@ -57773,12 +57244,9 @@ rxQ
 rxQ
 rxQ
 rxQ
-<<<<<<< Updated upstream
-=======
 ici
 "}
 (46,1,2) = {"
->>>>>>> Stashed changes
 rxQ
 rxQ
 mRG
