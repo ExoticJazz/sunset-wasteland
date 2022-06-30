@@ -1769,6 +1769,14 @@
 	icon_state = "floorgrime"
 	},
 /area/f13/bunker)
+"bZs" = (
+/obj/effect/decal/remains/human,
+/mob/living/simple_animal/hostile/supermutant/nightkin/rangedmutant,
+/turf/open/floor/plasteel/barber{
+	icon = 'icons/turf/f13floors2.dmi';
+	icon_state = "bluerustychess2"
+	},
+/area/f13/bunker/bighornbunker)
 "bZQ" = (
 /obj/structure/spider/stickyweb,
 /obj/structure/closet,
@@ -2004,6 +2012,13 @@
 /obj/structure/table,
 /turf/open/floor/plasteel/f13/vault_floor/floor,
 /area/f13/vault)
+"cli" = (
+/mob/living/simple_animal/hostile/supermutant/rangedmutant,
+/turf/open/floor/plasteel/barber{
+	icon = 'icons/turf/f13floors2.dmi';
+	icon_state = "bluerustychess2"
+	},
+/area/f13/bunker)
 "cmd" = (
 /obj/item/twohanded/spear/bonespear/deathclaw,
 /turf/open/indestructible/ground/outside/dirt,
@@ -3229,7 +3244,7 @@
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/cleanable/dirt,
 /obj/effect/decal/remains/human,
-/obj/item/mine/shrapnel,
+/mob/living/simple_animal/hostile/handy/gutsy,
 /turf/open/floor/plasteel/f13/vault_floor/floor,
 /area/f13/bunker)
 "dsJ" = (
@@ -5024,6 +5039,13 @@
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/cmo,
 /area/f13/vault)
+"fhR" = (
+/mob/living/simple_animal/hostile/supermutant/nightkin,
+/turf/open/floor/plasteel/barber{
+	icon = 'icons/turf/f13floors2.dmi';
+	icon_state = "bluerustychess2"
+	},
+/area/f13/bunker/bighornbunker)
 "fiq" = (
 /obj/structure/grille,
 /turf/open/floor/plasteel/f13/vault_floor/plating,
@@ -7130,6 +7152,12 @@
 	},
 /turf/open/floor/plasteel/f13/vault_floor/blue/white,
 /area/f13/vault)
+"hiK" = (
+/obj/effect/decal/cleanable/dirt,
+/obj/effect/overlay/junk/oldpipes,
+/mob/living/simple_animal/hostile/handy/gutsy,
+/turf/open/floor/plasteel/f13/vault_floor/floor/floorsolid,
+/area/f13/bunker)
 "hjh" = (
 /obj/item/stack/sheet/mineral/sandbags,
 /obj/effect/decal/cleanable/dirt,
@@ -13361,6 +13389,12 @@
 /obj/effect/decal/cleanable/robot_debris,
 /turf/open/floor/plasteel/f13/vault_floor/floor/floorsolid,
 /area/f13/bunker)
+"nzo" = (
+/mob/living/simple_animal/hostile/supermutant/meleemutant,
+/turf/open/floor/plasteel/barber{
+	icon_state = "plating"
+	},
+/area/f13/bunker)
 "nzF" = (
 /turf/open/indestructible/ground/outside/dirt{
 	dir = 9;
@@ -15680,9 +15714,11 @@
 	},
 /area/f13/bunker)
 "pGI" = (
-/mob/living/simple_animal/hostile/handy/gutsy,
-/obj/effect/decal/cleanable/dirt,
-/turf/open/floor/plasteel/f13/vault_floor/floor,
+/mob/living/simple_animal/hostile/supermutant/meleemutant,
+/turf/open/floor/plasteel/barber{
+	icon = 'icons/turf/f13floors2.dmi';
+	icon_state = "bluerustychess2"
+	},
 /area/f13/bunker)
 "pGU" = (
 /obj/effect/spawner/lootdrop/f13/weapon/gun/ballistic/mid,
@@ -19049,7 +19085,7 @@
 /area/f13/bunker)
 "tot" = (
 /mob/living/simple_animal/hostile/handy/gutsy/flamer{
-	health = 500;
+	health = 700;
 	name = "The Grill Sergeant"
 	},
 /turf/open/floor/plasteel/f13/vault_floor/misc/vaultrust{
@@ -19516,6 +19552,10 @@
 	icon_state = "plating"
 	},
 /area/f13/bunker)
+"tKb" = (
+/mob/living/simple_animal/hostile/supermutant/nightkin,
+/turf/open/indestructible/ground/inside/mountain,
+/area/f13/bunker/bighornbunker)
 "tKg" = (
 /obj/structure/table,
 /obj/machinery/light/small,
@@ -29546,7 +29586,7 @@ oqm
 oqm
 oqm
 kVk
-lMo
+cli
 kcC
 kVk
 qsA
@@ -30060,7 +30100,7 @@ hca
 vfp
 oqm
 eJj
-lMo
+cli
 oqm
 cTQ
 gDP
@@ -30574,7 +30614,7 @@ oqm
 kcC
 oqm
 kVk
-lMo
+pGI
 oqm
 oqm
 oqm
@@ -32101,7 +32141,7 @@ oqm
 uMV
 qIK
 kVk
-lMo
+pGI
 gbh
 oqm
 jBr
@@ -32357,7 +32397,7 @@ shC
 oqm
 luA
 qGH
-lMo
+pGI
 kVk
 tKg
 oqm
@@ -33898,7 +33938,7 @@ rOB
 kVk
 kcC
 kVk
-lMo
+pGI
 kVk
 kVk
 kuk
@@ -37498,7 +37538,7 @@ shC
 jPx
 qpH
 fxg
-oCE
+nzo
 xjm
 oqm
 woI
@@ -38016,7 +38056,7 @@ nFX
 nAC
 oqm
 xjm
-oCE
+nzo
 oJI
 oqm
 aXN
@@ -39305,7 +39345,7 @@ shC
 shC
 oqm
 upG
-lMo
+pGI
 otU
 mMO
 dFY
@@ -39820,7 +39860,7 @@ shC
 mMO
 moY
 qer
-oCE
+nzo
 shC
 oqm
 shC
@@ -50884,7 +50924,7 @@ oqm
 hNT
 fFC
 uEh
-pGI
+vGO
 koI
 mys
 toH
@@ -56528,7 +56568,7 @@ shC
 shC
 oqm
 smt
-vGa
+hiK
 oqm
 shC
 shC
@@ -83248,7 +83288,7 @@ shC
 mRq
 fYh
 kYU
-qPV
+bZs
 kYU
 aRy
 mRq
@@ -83507,7 +83547,7 @@ gtE
 kYU
 fbg
 oQi
-vff
+kYU
 cRC
 hTb
 mWk
@@ -83767,7 +83807,7 @@ kYU
 kYU
 cRC
 hTb
-uok
+tKb
 mMz
 qpP
 mWk
@@ -84018,7 +84058,7 @@ shC
 shC
 mRq
 fYh
-vff
+kYU
 kYU
 kYU
 tTk
@@ -84275,7 +84315,7 @@ shC
 shC
 mRq
 mRq
-kYU
+fhR
 pcH
 kYU
 mRq
@@ -85305,7 +85345,7 @@ qxZ
 fDJ
 kYU
 kYU
-vff
+fhR
 dhY
 mRq
 mRq
@@ -86075,7 +86115,7 @@ xQm
 bgC
 mRq
 qUf
-vff
+fhR
 qPV
 kYU
 cRC

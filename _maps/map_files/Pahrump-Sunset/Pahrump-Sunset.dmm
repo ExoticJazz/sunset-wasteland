@@ -22258,8 +22258,7 @@
 /turf/open/floor/wood_worn,
 /area/f13/building/khanfort)
 "bqz" = (
-/obj/effect/spawner/lootdrop/trash,
-/mob/living/simple_animal/hostile/raider/junker,
+/mob/living/simple_animal/hostile/renegade/grunt,
 /turf/open/floor/plasteel/f13{
 	icon_state = "greenrustychess"
 	},
@@ -29152,6 +29151,13 @@
 	icon_state = "redrustyfull"
 	},
 /area/f13/building/firestation)
+"dws" = (
+/obj/structure/obstacle/barbedwire/end,
+/turf/open/indestructible/ground/outside/sidewalk{
+	dir = 10;
+	icon_state = "outerpavement"
+	},
+/area/f13/wasteland/massfusion)
 "dwM" = (
 /obj/structure/campfire/barrel,
 /turf/open/indestructible/ground/outside/dirt,
@@ -30470,6 +30476,12 @@
 	},
 /turf/open/indestructible/ground/outside/sidewalk,
 /area/f13/wasteland/bighorn)
+"erw" = (
+/mob/living/simple_animal/hostile/renegade,
+/turf/open/indestructible/ground/outside/road{
+	icon_state = "horizontaltopborderbottom2"
+	},
+/area/f13/wasteland/museum)
 "ese" = (
 /turf/open/floor/plasteel/f13{
 	icon_state = "darkrusty"
@@ -30619,6 +30631,12 @@
 	},
 /turf/closed/wall/f13/tentwall,
 /area/f13/building)
+"evV" = (
+/obj/structure/obstacle/barbedwire,
+/turf/open/indestructible/ground/outside/sidewalk{
+	icon_state = "horizontaloutermain0"
+	},
+/area/f13/wasteland/massfusion)
 "evZ" = (
 /obj/structure/fence,
 /turf/open/indestructible/ground/outside/dirt{
@@ -34884,6 +34902,12 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/indestructible/ground/inside/mountain,
 /area/f13/building/khanfort)
+"hge" = (
+/mob/living/simple_animal/hostile/renegade/doc,
+/turf/open/indestructible/ground/outside/road{
+	icon_state = "verticalrightborderleft0"
+	},
+/area/f13/wasteland/museum)
 "hgG" = (
 /obj/structure/sign/poster/ncr/irradiated_food{
 	pixel_x = 32
@@ -38025,6 +38049,20 @@
 	icon_state = "verticalrightborderright2"
 	},
 /area/f13/wasteland/hospital)
+"jci" = (
+/mob/living/simple_animal/hostile/renegade/drifter,
+/turf/open/indestructible/ground/outside/sidewalk,
+/area/f13/wasteland/museum)
+"jcm" = (
+/obj/structure/obstacle/barbedwire/end{
+	dir = 1;
+	pixel_x = 5
+	},
+/turf/open/indestructible/ground/outside/sidewalk{
+	dir = 9;
+	icon_state = "outerpavement"
+	},
+/area/f13/wasteland/massfusion)
 "jcn" = (
 /obj/structure/table/wood,
 /obj/effect/spawner/lootdrop/f13/alcoholspawner,
@@ -39434,6 +39472,12 @@
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel/f13{
 	icon_state = "darkrusty"
+	},
+/area/f13/building/massfusion)
+"kbx" = (
+/mob/living/simple_animal/hostile/renegade/engie,
+/turf/open/floor/plasteel/f13{
+	icon_state = "greenrustychess"
 	},
 /area/f13/building/massfusion)
 "kbA" = (
@@ -97081,7 +97125,7 @@ agk
 aqK
 xyU
 xyU
-xyU
+sYZ
 xyU
 bcF
 afT
@@ -97748,7 +97792,7 @@ aqQ
 abP
 ftc
 sUr
-gJU
+erw
 uKk
 uVJ
 ubS
@@ -100050,7 +100094,7 @@ dZs
 jUo
 qpD
 kSu
-kSu
+hge
 kSu
 kSu
 kSu
@@ -105196,7 +105240,7 @@ nne
 wEp
 abP
 wdP
-wdP
+jci
 wdP
 abP
 abP
@@ -116339,9 +116383,9 @@ nbT
 nbT
 aPO
 nbT
-gpG
-uEz
-doD
+dws
+evV
+jcm
 nbT
 aPO
 nbT
@@ -116854,7 +116898,7 @@ aae
 vVo
 peq
 wSN
-bqz
+xNI
 xJU
 aIh
 vVo
@@ -118394,7 +118438,7 @@ aae
 vVo
 rcw
 rcw
-wSN
+bqz
 xNI
 wSN
 rcw
@@ -118653,7 +118697,7 @@ edw
 fEv
 twO
 wSN
-wSN
+kbx
 wSN
 kea
 vVo
